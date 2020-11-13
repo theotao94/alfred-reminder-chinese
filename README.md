@@ -3,7 +3,9 @@
 
 ### ➡️ 安装
 
-下载项目中的 **快速添加提醒事项.workflow** ，双击打开，自动导入alfred
+
+
+下载项目中的 [**快速添加提醒事项.workflow**](https://github.com/taohonghui/alfred-reminder-chinese/blob/main/快速添加提醒事项.alfredworkflow) ，双击打开，自动导入alfred
 
 ### ➡️ 示例
 
