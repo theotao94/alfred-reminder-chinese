@@ -1,11 +1,10 @@
 # alfred-reminder-chinese
- 自动添加提醒事项的alfred插件，支持中文时间自动识别。
+
+自动添加提醒事项的 alfred 插件，支持中文时间自动识别。
 
 ### ➡️ 安装
 
-
-
-下载项目中的 [**快速添加提醒事项.workflow**](https://github.com/taohonghui/alfred-reminder-chinese/blob/main/快速添加提醒事项.alfredworkflow) ，双击打开，自动导入alfred
+下载项目中的 [**快速添加提醒事项.workflow**](https://github.com/taohonghui/alfred-reminder-chinese/blob/main/快速添加提醒事项.alfredworkflow) ，双击打开，自动导入 alfred
 
 ### ➡️ 示例
 
@@ -21,8 +20,6 @@ t 22/12/20 去看电影
 t 下午两点 记录工作
 ```
 
-
-
 #### ➡️ TODO
 
 - [ ] 指定提醒添加到指定清单
@@ -31,18 +28,18 @@ t 下午两点 记录工作
 
 #### ➡️ 关于仓库
 
-source是workflow 所需要的资源
+source 是 workflow 所需要的资源
 
-chrono是中文文字转date的js库（全是if else 和正则😄）
+chrono 是中文文字转 date 的 js 库（全是 if else 和正则 😄）
 
 #### ➡️ 联系作者
 
 如果你遇到任何问题或者是有需要改进的地方请联系我：
 
-- 微信：gg36942
+- 微信：pp36942
 - qq: 347785474
 - Mail: 17610906827@163.com
 
 #### ❤️ 如果你想的话
 
-给我个Star🌟吧
+给我个 Star🌟 吧
